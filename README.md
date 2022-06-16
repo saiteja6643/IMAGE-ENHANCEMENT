@@ -1,2 +1,2 @@
 # IMAGE ENHANCEMENT
-it is regarding image enhancement for changing brightness &amp; contrast 
+it is regarding enhancing quality of the image by changing brightness, contrast and sharpness of input image
